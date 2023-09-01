@@ -1,13 +1,4 @@
-git add
-
-
-git status
+git git add
 
 
 
-git commit -m "message"
-git lo
-git stat
-git 
-
-git
