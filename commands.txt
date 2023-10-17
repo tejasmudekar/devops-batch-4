@@ -5,5 +5,6 @@ git remote -v
 git pull
 git push
 git fetch
+added new command from local repo
 
 added cmd thr github global
